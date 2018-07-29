@@ -1,6 +1,6 @@
-Java Clone Git Repo Demo
-===========================
+Java Git Reset To Previous Commit Demo
+======================================
 
-Use [JGit](https://www.eclipse.org/jgit) to clone a git repo programmatically.
+Use [JGit](https://www.eclipse.org/jgit) to reset the repo to previous commit programmatically.
 
-Run `Hello.java` in you IDE, then check the local dir.
+Run `Hello.java` in you IDE.
